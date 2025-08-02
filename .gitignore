@@ -1,0 +1,44 @@
+# Arquivos do Jupyter Notebook
+.ipynb_checkpoints/
+
+# Cache do Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Arquivos temporários
+*.swp
+*.bak
+*.tmp
+*~
+
+# Arquivos do VS Code
+.vscode/
+
+# Environments do conda
+.env/
+.venv/
+env/
+venv/
+
+# Arquivos do Anaconda
+*.log
+*.sqlite
+*.db
+*.tar.gz
+*.pickle
+
+# Arquivos de saída
+*.out
+*.aux
+*.toc
+
+# Dados e exportações
+*.csv
+*.xlsx
+*.h5
+*.hdf5
+
+# Arquivos de configuração pessoais
+*.DS_Store
+Thumbs.db
